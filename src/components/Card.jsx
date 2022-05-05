@@ -1,4 +1,4 @@
-import './Card.css'
+import './css/Card.css'
 import React from 'react'
 
 function getColor(props) {
