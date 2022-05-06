@@ -8,12 +8,12 @@ export default props => {
             <div className="Range">
                 <span>
                     <strong>Min:</strong>
-                    <input type="number" value='01'/>
+                    <input type="number" value='01' readOnly/>
                 </span>
                 
                 <span>
                     <strong>Max:</strong>
-                    <input type="number" value="02"/>
+                    <input type="number" value="02" readOnly/>
                 </span>
             </div>
         </Card>

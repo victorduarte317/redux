@@ -18,9 +18,9 @@ function App() {
       </div>
 
       <div className="line">
-        <AA  title='Card 2' green>X </AA>
-        <Add title='Card 3' blue>X</Add>
-        <Sort title='Card 4' purple>X</Sort>
+        <AA></AA>
+        <Add></Add>
+        <Sort></Sort>
       </div>
 
     </div>
