@@ -4,7 +4,6 @@ import { connect } from 'react-redux'
 
 function Arithmetic(props) {
     const { min, max } = props
-    console.log(props   )
     return (
         <Card title="Arithmetic Average" purple>
             <div>
